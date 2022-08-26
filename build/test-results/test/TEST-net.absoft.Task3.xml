@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.absoft.Task3" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T18:44:27" hostname="dnh0-7p30-75" time="5.899">
+  <properties/>
+  <testcase name="wellDoneForWaiting" classname="net.absoft.Task3" time="5.899"/>
+  <system-out><![CDATA[true
+true
+The waiting game can be a tricky one; this exercise will hopefully improve your understandings of the various types of waits.
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 58047
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+авг 25, 2022 9:44:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+авг 25, 2022 9:44:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 104, so returning the closest version found: 103
+авг 25, 2022 9:44:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 104 of 103
+]]></system-err>
+</testsuite>
